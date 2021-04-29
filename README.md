@@ -39,7 +39,7 @@ The unsupervised baseline:
 
 | Method                              | P      | R      | F      |
 | ----------------------------------- | ------ | ------ | ------ |
-| [(Sun and Deng, 2018)](# Reference) | 0.8064 | 0.7847 | 0.7954 |
+| [(Sun and Deng, 2018)](#reference) | 0.8064 | 0.7847 | 0.7954 |
 
 
 
