@@ -1,4 +1,4 @@
-# Nihao: Relative Fine-Grained Chinese Word Segmentation Corpus
+# Nihao: Relative Fine-Grained Chinese Word Segmentation
 
 #### Important Updates
 
