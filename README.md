@@ -48,8 +48,8 @@ The unsupervised baseline:
 
 We provide several external resources for a better understanding of **'Nihao'** and unsupervised segmentation methods.
 
-1. segmentation criterion with the dictionary of Chinese affix. https://github.com/koukaiu/nihao/res/criterion. 
-3. the dictionary of long words in common use, which is modified by [(Cai and Zhao, 2016)](#reference). https://github.com/koukaiu/nihao/res/idioms.
+1. segmentation criterion with the dictionary of Chinese affix. https://github.com/koukaiu/nihao/res/nihao_segmentation_criterion.pdf. 
+3. the dictionary of long words in common use, which is modified by [(Cai and Zhao, 2016)](#reference). https://github.com/koukaiu/nihao/res/idiomsDUTNLP.
 
 External resources ([Download Link](https://github.com/koukaiu/nihao/res))
 
