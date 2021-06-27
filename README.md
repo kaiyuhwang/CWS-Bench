@@ -10,6 +10,8 @@ Official Website: 2021-05-01
 
 [Evaluation-Link](http://114.116.55.241/sharedTask-unsupervisedCWS)
 
+Test Date Release: 2021-06-27
+
 
 
 #### Description of the Corpus
@@ -48,10 +50,10 @@ The unsupervised baseline:
 
 We provide several external resources for a better understanding of **'Nihao'** and unsupervised segmentation methods.
 
-1. [segmentation criterion with the dictionary of Chinese affix.](https://github.com/koukaiu/nihao/blob/main/res/nihao_segmentation_criterion.pdf) 
-3. the dictionary of long words in common use, which is modified by [(Cai and Zhao, 2016)](#reference). [Link](https://github.com/koukaiu/nihao/blob/main/res/idiomsDUTNLP)
+1. segmentation criterion with the dictionary of Chinese affix. https://github.com/koukaiu/nihao/res/criterion. 
+3. the dictionary of long words in common use, which is modified by [(Cai and Zhao, 2016)](#reference). https://github.com/koukaiu/nihao/res/idioms.
 
-External resources ([Download Link](https://github.com/koukaiu/nihao/tree/main/res))
+External resources ([Download Link](https://github.com/koukaiu/nihao/res))
 
 
 
